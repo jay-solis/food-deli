@@ -1,0 +1,5 @@
+Food Deli Menu:
+
+1. Chicken Curry with Rice
+2. Steak
+3. Turkey
